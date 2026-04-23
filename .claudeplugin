@@ -1,0 +1,8 @@
+{
+  "type": "marketplace",
+  "name": "Marketing Skills Marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace de skills para marketing",
+  "author": "rodrigozmouraad-cmd",
+  "skills": []
+}
